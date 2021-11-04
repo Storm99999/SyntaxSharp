@@ -1,0 +1,6 @@
+C:\Users\Alex\source\repos\SyntaxSharp\SyntaxSharp\bin\Debug\SyntaxSharp.dll
+C:\Users\Alex\source\repos\SyntaxSharp\SyntaxSharp\bin\Debug\SyntaxSharp.pdb
+C:\Users\Alex\source\repos\SyntaxSharp\SyntaxSharp\obj\Debug\SyntaxSharp.csproj.AssemblyReference.cache
+C:\Users\Alex\source\repos\SyntaxSharp\SyntaxSharp\obj\Debug\SyntaxSharp.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\SyntaxSharp\SyntaxSharp\obj\Debug\SyntaxSharp.dll
+C:\Users\Alex\source\repos\SyntaxSharp\SyntaxSharp\obj\Debug\SyntaxSharp.pdb
